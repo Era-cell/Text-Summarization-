@@ -15,7 +15,7 @@ list_of_files = [
     "config/config.yaml",
     "Dockerfile",
     "requirements.txt",
-    "research/trial.ipynb"
+    "research/trails.ipynb"
     f"src/{folder}/__init__.py"
     f"src/{folder}/config/configuration.py",
     f"src/{folder}/entity/__init__.py",
